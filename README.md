@@ -90,7 +90,7 @@ int main() {
 
 
 ## OUTPUT:
-![output](cat.png)
+![output](https://github.com/RuchithaReddy28/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/blob/main/7.jpg?raw=true)
 
 ## RESULT:
 Thus, open, read, write, close , create , fork() system calls implemented successfully using C program.
